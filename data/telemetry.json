@@ -1,0 +1,902 @@
+[
+  {
+    "vehicle_id": "CAR040TYT7D5",
+    "timestamp": "2024-11-22T13:00:00Z",
+    "battery_health_percent": 92.4,
+    "odometer_km": 36744
+  },
+  {
+    "vehicle_id": "VIN0466HID25",
+    "timestamp": "2024-11-21T15:00:00Z",
+    "battery_health_percent": 97.7,
+    "odometer_km": 87392
+  },
+  {
+    "vehicle_id": "VIN035O7UUBC",
+    "timestamp": "2024-11-20T16:00:00Z",
+    "battery_health_percent": 94.6,
+    "odometer_km": 41831
+  },
+  {
+    "vehicle_id": "CAR001DPBHSA",
+    "timestamp": "2024-11-20T09:00:00Z",
+    "battery_health_percent": 77.4,
+    "odometer_km": 115326
+  },
+  {
+    "vehicle_id": "VIN0485A0L72",
+    "timestamp": "2024-11-19T18:00:00Z",
+    "battery_health_percent": 89.4,
+    "odometer_km": 125559
+  },
+  {
+    "vehicle_id": "CAR034F8CGVY",
+    "timestamp": "2024-11-18T06:00:00Z",
+    "battery_health_percent": 92.5,
+    "odometer_km": 118330
+  },
+  {
+    "vehicle_id": "VEH037EXQ77A",
+    "timestamp": "2024-11-16T04:00:00Z",
+    "battery_health_percent": 92.6,
+    "odometer_km": 45784
+  },
+  {
+    "vehicle_id": "VEH010OC6UZH",
+    "timestamp": "2024-11-15T23:00:00Z",
+    "battery_health_percent": 86.8,
+    "odometer_km": 49916
+  },
+  {
+    "vehicle_id": "VIN003ZMF8MD",
+    "timestamp": "2024-11-15T15:00:00Z",
+    "battery_health_percent": 89.2,
+    "odometer_km": 123062
+  },
+  {
+    "vehicle_id": "CAR027BXXC02",
+    "timestamp": "2024-11-14T07:00:00Z",
+    "battery_health_percent": 75.7,
+    "odometer_km": 123180
+  },
+  {
+    "vehicle_id": "VEH0263GDPPQ",
+    "timestamp": "2024-11-14T05:00:00Z",
+    "battery_health_percent": 74.9,
+    "odometer_km": 89648
+  },
+  {
+    "vehicle_id": "VEH013DBDW2P",
+    "timestamp": "2024-11-13T16:00:00Z",
+    "battery_health_percent": 96.7,
+    "odometer_km": 17104
+  },
+  {
+    "vehicle_id": "VIN0485A0L72",
+    "timestamp": "2024-11-13T03:00:00Z",
+    "battery_health_percent": 89.4,
+    "odometer_km": 125871
+  },
+  {
+    "vehicle_id": "CAR03289UZFK",
+    "timestamp": "2024-11-11T07:00:00Z",
+    "battery_health_percent": 87.8,
+    "odometer_km": 125174
+  },
+  {
+    "vehicle_id": "VIN045T4UFEL",
+    "timestamp": "2024-11-11T05:00:00Z",
+    "battery_health_percent": 89.9,
+    "odometer_km": 88988
+  },
+  {
+    "vehicle_id": "VEH007Q4FMYZ",
+    "timestamp": "2024-11-10T23:00:00Z",
+    "battery_health_percent": 94.1,
+    "odometer_km": 111113
+  },
+  {
+    "vehicle_id": "VIN018T2TALA",
+    "timestamp": "2024-11-10T23:00:00Z",
+    "battery_health_percent": 97.1,
+    "odometer_km": 138503
+  },
+  {
+    "vehicle_id": "CAR025RT05UI",
+    "timestamp": "2024-11-10T10:00:00Z",
+    "battery_health_percent": 73.9,
+    "odometer_km": 99451
+  },
+  {
+    "vehicle_id": "CAR001DPBHSA",
+    "timestamp": "2024-11-10T04:00:00Z",
+    "battery_health_percent": 76.5,
+    "odometer_km": 115008
+  },
+  {
+    "vehicle_id": "VIN002ZZPQK5",
+    "timestamp": "2024-11-10T00:00:00Z",
+    "battery_health_percent": 90.6,
+    "odometer_km": 144066
+  },
+  {
+    "vehicle_id": "VEH047907IF2",
+    "timestamp": "2024-11-06T16:00:00Z",
+    "battery_health_percent": 88.0,
+    "odometer_km": 103200
+  },
+  {
+    "vehicle_id": "VIN006BIKCID",
+    "timestamp": "2024-11-06T12:00:00Z",
+    "battery_health_percent": 92.5,
+    "odometer_km": 34823
+  },
+  {
+    "vehicle_id": "CAR040TYT7D5",
+    "timestamp": "2024-11-05T10:00:00Z",
+    "battery_health_percent": 93.0,
+    "odometer_km": 36780
+  },
+  {
+    "vehicle_id": "VIN0395NF4ZW",
+    "timestamp": "2024-11-04T21:00:00Z",
+    "battery_health_percent": 80.7,
+    "odometer_km": 21770
+  },
+  {
+    "vehicle_id": "CAR043PJA1WJ",
+    "timestamp": "2024-11-03T07:00:00Z",
+    "battery_health_percent": 79.3,
+    "odometer_km": 87495
+  },
+  {
+    "vehicle_id": "VEH0120PVN9E",
+    "timestamp": "2024-11-02T22:00:00Z",
+    "battery_health_percent": 92.7,
+    "odometer_km": 82385
+  },
+  {
+    "vehicle_id": "VEH005CKW5NG",
+    "timestamp": "2024-11-02T15:00:00Z",
+    "battery_health_percent": 87.7,
+    "odometer_km": 95202
+  },
+  {
+    "vehicle_id": "VIN042Y4SJ6B",
+    "timestamp": "2024-11-02T14:00:00Z",
+    "battery_health_percent": 77.6,
+    "odometer_km": 85563
+  },
+  {
+    "vehicle_id": "VIN0485A0L72",
+    "timestamp": "2024-11-02T06:00:00Z",
+    "battery_health_percent": 89.0,
+    "odometer_km": 126311
+  },
+  {
+    "vehicle_id": "VIN031FAO72K",
+    "timestamp": "2024-11-01T21:00:00Z",
+    "battery_health_percent": 89.0,
+    "odometer_km": 34592
+  },
+  {
+    "vehicle_id": "VEH013DBDW2P",
+    "timestamp": "2024-11-01T11:00:00Z",
+    "battery_health_percent": 96.4,
+    "odometer_km": 17371
+  },
+  {
+    "vehicle_id": "CAR025RT05UI",
+    "timestamp": "2024-11-01T11:00:00Z",
+    "battery_health_percent": 73.6,
+    "odometer_km": 99314
+  },
+  {
+    "vehicle_id": "VIN023ICATVA",
+    "timestamp": "2024-10-31T06:00:00Z",
+    "battery_health_percent": 95.4,
+    "odometer_km": 58535
+  },
+  {
+    "vehicle_id": "VIN023ICATVA",
+    "timestamp": "2024-10-31T03:00:00Z",
+    "battery_health_percent": 94.4,
+    "odometer_km": 58918
+  },
+  {
+    "vehicle_id": "VIN004MMJBQE",
+    "timestamp": "2024-10-30T23:00:00Z",
+    "battery_health_percent": 89.9,
+    "odometer_km": 43367
+  },
+  {
+    "vehicle_id": "CAR03899CHJ7",
+    "timestamp": "2024-10-30T14:00:00Z",
+    "battery_health_percent": 93.4,
+    "odometer_km": 49545
+  },
+  {
+    "vehicle_id": "CAR027BXXC02",
+    "timestamp": "2024-10-28T16:00:00Z",
+    "battery_health_percent": 75.6,
+    "odometer_km": 122853
+  },
+  {
+    "vehicle_id": "VEH013DBDW2P",
+    "timestamp": "2024-10-27T22:00:00Z",
+    "battery_health_percent": 96.5,
+    "odometer_km": 18083
+  },
+  {
+    "vehicle_id": "CAR000E0IFD0",
+    "timestamp": "2024-10-27T12:00:00Z",
+    "battery_health_percent": 80.8,
+    "odometer_km": 130969
+  },
+  {
+    "vehicle_id": "VEH047907IF2",
+    "timestamp": "2024-10-26T16:00:00Z",
+    "battery_health_percent": 88.1,
+    "odometer_km": 102358
+  },
+  {
+    "vehicle_id": "VIN028IGQPKI",
+    "timestamp": "2024-10-26T03:00:00Z",
+    "battery_health_percent": 65.5,
+    "odometer_km": 128555
+  },
+  {
+    "vehicle_id": "VEH010OC6UZH",
+    "timestamp": "2024-10-26T00:00:00Z",
+    "battery_health_percent": 87.4,
+    "odometer_km": 49539
+  },
+  {
+    "vehicle_id": "CAR044PZUE8Y",
+    "timestamp": "2024-10-25T22:00:00Z",
+    "battery_health_percent": 89.2,
+    "odometer_km": 47517
+  },
+  {
+    "vehicle_id": "VIN031FAO72K",
+    "timestamp": "2024-10-25T15:00:00Z",
+    "battery_health_percent": 89.7,
+    "odometer_km": 33940
+  },
+  {
+    "vehicle_id": "VIN042Y4SJ6B",
+    "timestamp": "2024-10-25T13:00:00Z",
+    "battery_health_percent": 77.2,
+    "odometer_km": 85334
+  },
+  {
+    "vehicle_id": "CAR015ZYTJXE",
+    "timestamp": "2024-10-25T08:00:00Z",
+    "battery_health_percent": 65.3,
+    "odometer_km": 49946
+  },
+  {
+    "vehicle_id": "VIN006BIKCID",
+    "timestamp": "2024-10-24T15:00:00Z",
+    "battery_health_percent": 93.1,
+    "odometer_km": 34480
+  },
+  {
+    "vehicle_id": "CAR009YHL1C3",
+    "timestamp": "2024-10-23T16:00:00Z",
+    "battery_health_percent": 91.3,
+    "odometer_km": 77945
+  },
+  {
+    "vehicle_id": "VIN002ZZPQK5",
+    "timestamp": "2024-10-23T11:00:00Z",
+    "battery_health_percent": 90.2,
+    "odometer_km": 144166
+  },
+  {
+    "vehicle_id": "VIN014NVQJT7",
+    "timestamp": "2024-10-23T10:00:00Z",
+    "battery_health_percent": 89.3,
+    "odometer_km": 120510
+  },
+  {
+    "vehicle_id": "CAR022HL9XPS",
+    "timestamp": "2024-10-23T05:00:00Z",
+    "battery_health_percent": 90.9,
+    "odometer_km": 149574
+  },
+  {
+    "vehicle_id": "VIN033UT0CVS",
+    "timestamp": "2024-10-23T02:00:00Z",
+    "battery_health_percent": 93.2,
+    "odometer_km": 115471
+  },
+  {
+    "vehicle_id": "CAR044PZUE8Y",
+    "timestamp": "2024-10-22T15:00:00Z",
+    "battery_health_percent": 87.9,
+    "odometer_km": 47855
+  },
+  {
+    "vehicle_id": "VIN029P5TB94",
+    "timestamp": "2024-10-21T08:00:00Z",
+    "battery_health_percent": 92.6,
+    "odometer_km": 62041
+  },
+  {
+    "vehicle_id": "CAR0493J2D54",
+    "timestamp": "2024-10-21T07:00:00Z",
+    "battery_health_percent": 89.9,
+    "odometer_km": 141542
+  },
+  {
+    "vehicle_id": "CAR034F8CGVY",
+    "timestamp": "2024-10-20T19:00:00Z",
+    "battery_health_percent": 91.8,
+    "odometer_km": 118824
+  },
+  {
+    "vehicle_id": "CAR024WI64CI",
+    "timestamp": "2024-10-20T11:00:00Z",
+    "battery_health_percent": 95.4,
+    "odometer_km": 43182
+  },
+  {
+    "vehicle_id": "VEH01953LC58",
+    "timestamp": "2024-10-19T22:00:00Z",
+    "battery_health_percent": 91.1,
+    "odometer_km": 80695
+  },
+  {
+    "vehicle_id": "VIN020039TEX",
+    "timestamp": "2024-10-19T19:00:00Z",
+    "battery_health_percent": 80.2,
+    "odometer_km": 58063
+  },
+  {
+    "vehicle_id": "CAR009YHL1C3",
+    "timestamp": "2024-10-19T05:00:00Z",
+    "battery_health_percent": 91.2,
+    "odometer_km": 78472
+  },
+  {
+    "vehicle_id": "CAR044PZUE8Y",
+    "timestamp": "2024-10-18T15:00:00Z",
+    "battery_health_percent": 89.0,
+    "odometer_km": 47792
+  },
+  {
+    "vehicle_id": "VEH037EXQ77A",
+    "timestamp": "2024-10-18T13:00:00Z",
+    "battery_health_percent": 91.7,
+    "odometer_km": 46585
+  },
+  {
+    "vehicle_id": "CAR0493J2D54",
+    "timestamp": "2024-10-17T13:00:00Z",
+    "battery_health_percent": 91.1,
+    "odometer_km": 141700
+  },
+  {
+    "vehicle_id": "VIN045T4UFEL",
+    "timestamp": "2024-10-17T06:00:00Z",
+    "battery_health_percent": 91.1,
+    "odometer_km": 88768
+  },
+  {
+    "vehicle_id": "VEH011O6QJIU",
+    "timestamp": "2024-10-17T00:00:00Z",
+    "battery_health_percent": 95.9,
+    "odometer_km": 15434
+  },
+  {
+    "vehicle_id": "VEH016FAZZ81",
+    "timestamp": "2024-10-16T09:00:00Z",
+    "battery_health_percent": 95.5,
+    "odometer_km": 52930
+  },
+  {
+    "vehicle_id": "CAR027BXXC02",
+    "timestamp": "2024-10-15T18:00:00Z",
+    "battery_health_percent": 76.4,
+    "odometer_km": 122415
+  },
+  {
+    "vehicle_id": "VIN029P5TB94",
+    "timestamp": "2024-10-15T17:00:00Z",
+    "battery_health_percent": 94.0,
+    "odometer_km": 62639
+  },
+  {
+    "vehicle_id": "VEH041EDTJVZ",
+    "timestamp": "2024-10-14T16:00:00Z",
+    "battery_health_percent": 94.7,
+    "odometer_km": 31542
+  },
+  {
+    "vehicle_id": "VIN0395NF4ZW",
+    "timestamp": "2024-10-14T13:00:00Z",
+    "battery_health_percent": 79.7,
+    "odometer_km": 21441
+  },
+  {
+    "vehicle_id": "VEH01953LC58",
+    "timestamp": "2024-10-14T05:00:00Z",
+    "battery_health_percent": 92.2,
+    "odometer_km": 80358
+  },
+  {
+    "vehicle_id": "CAR000E0IFD0",
+    "timestamp": "2024-10-13T04:00:00Z",
+    "battery_health_percent": 81.2,
+    "odometer_km": 131656
+  },
+  {
+    "vehicle_id": "VEH041EDTJVZ",
+    "timestamp": "2024-10-12T15:00:00Z",
+    "battery_health_percent": 95.0,
+    "odometer_km": 31054
+  },
+  {
+    "vehicle_id": "VIN020039TEX",
+    "timestamp": "2024-10-12T04:00:00Z",
+    "battery_health_percent": 81.9,
+    "odometer_km": 58127
+  },
+  {
+    "vehicle_id": "VEH037EXQ77A",
+    "timestamp": "2024-10-11T20:00:00Z",
+    "battery_health_percent": 91.6,
+    "odometer_km": 45885
+  },
+  {
+    "vehicle_id": "VIN014NVQJT7",
+    "timestamp": "2024-10-11T05:00:00Z",
+    "battery_health_percent": 89.6,
+    "odometer_km": 121009
+  },
+  {
+    "vehicle_id": "CAR000E0IFD0",
+    "timestamp": "2024-10-11T03:00:00Z",
+    "battery_health_percent": 81.2,
+    "odometer_km": 130665
+  },
+  {
+    "vehicle_id": "CAR022HL9XPS",
+    "timestamp": "2024-10-10T23:00:00Z",
+    "battery_health_percent": 92.7,
+    "odometer_km": 149177
+  },
+  {
+    "vehicle_id": "CAR03289UZFK",
+    "timestamp": "2024-10-10T23:00:00Z",
+    "battery_health_percent": 87.8,
+    "odometer_km": 124707
+  },
+  {
+    "vehicle_id": "CAR043PJA1WJ",
+    "timestamp": "2024-10-10T01:00:00Z",
+    "battery_health_percent": 80.0,
+    "odometer_km": 86904
+  },
+  {
+    "vehicle_id": "CAR022HL9XPS",
+    "timestamp": "2024-10-09T14:00:00Z",
+    "battery_health_percent": 91.6,
+    "odometer_km": 149433
+  },
+  {
+    "vehicle_id": "CAR015ZYTJXE",
+    "timestamp": "2024-10-08T07:00:00Z",
+    "battery_health_percent": 65.6,
+    "odometer_km": 50911
+  },
+  {
+    "vehicle_id": "VIN0395NF4ZW",
+    "timestamp": "2024-10-05T15:00:00Z",
+    "battery_health_percent": 80.3,
+    "odometer_km": 21874
+  },
+  {
+    "vehicle_id": "VEH016FAZZ81",
+    "timestamp": "2024-10-04T14:00:00Z",
+    "battery_health_percent": 94.7,
+    "odometer_km": 53736
+  },
+  {
+    "vehicle_id": "VIN033UT0CVS",
+    "timestamp": "2024-10-03T20:00:00Z",
+    "battery_health_percent": 94.6,
+    "odometer_km": 115177
+  },
+  {
+    "vehicle_id": "CAR021FSV871",
+    "timestamp": "2024-10-03T14:00:00Z",
+    "battery_health_percent": 78.2,
+    "odometer_km": 138956
+  },
+  {
+    "vehicle_id": "CAR036VS7HZI",
+    "timestamp": "2024-10-01T21:00:00Z",
+    "battery_health_percent": 88.4,
+    "odometer_km": 50586
+  },
+  {
+    "vehicle_id": "VIN029P5TB94",
+    "timestamp": "2024-10-01T09:00:00Z",
+    "battery_health_percent": 93.6,
+    "odometer_km": 61857
+  },
+  {
+    "vehicle_id": "CAR008XVG0FN",
+    "timestamp": "2024-09-30T19:00:00Z",
+    "battery_health_percent": 87.3,
+    "odometer_km": 45316
+  },
+  {
+    "vehicle_id": "VEH0120PVN9E",
+    "timestamp": "2024-09-29T21:00:00Z",
+    "battery_health_percent": 90.9,
+    "odometer_km": 81548
+  },
+  {
+    "vehicle_id": "CAR040TYT7D5",
+    "timestamp": "2024-09-29T09:00:00Z",
+    "battery_health_percent": 93.1,
+    "odometer_km": 36309
+  },
+  {
+    "vehicle_id": "CAR008XVG0FN",
+    "timestamp": "2024-09-28T17:00:00Z",
+    "battery_health_percent": 88.1,
+    "odometer_km": 45312
+  },
+  {
+    "vehicle_id": "CAR021FSV871",
+    "timestamp": "2024-09-28T12:00:00Z",
+    "battery_health_percent": 77.9,
+    "odometer_km": 138290
+  },
+  {
+    "vehicle_id": "CAR03899CHJ7",
+    "timestamp": "2024-09-27T19:00:00Z",
+    "battery_health_percent": 93.9,
+    "odometer_km": 48953
+  },
+  {
+    "vehicle_id": "VIN028IGQPKI",
+    "timestamp": "2024-09-27T10:00:00Z",
+    "battery_health_percent": 65.4,
+    "odometer_km": 128566
+  },
+  {
+    "vehicle_id": "CAR036VS7HZI",
+    "timestamp": "2024-09-26T19:00:00Z",
+    "battery_health_percent": 86.7,
+    "odometer_km": 50757
+  },
+  {
+    "vehicle_id": "CAR0493J2D54",
+    "timestamp": "2024-09-26T10:00:00Z",
+    "battery_health_percent": 89.7,
+    "odometer_km": 141973
+  },
+  {
+    "vehicle_id": "VEH010OC6UZH",
+    "timestamp": "2024-09-25T23:00:00Z",
+    "battery_health_percent": 86.1,
+    "odometer_km": 50169
+  },
+  {
+    "vehicle_id": "VEH005CKW5NG",
+    "timestamp": "2024-09-25T22:00:00Z",
+    "battery_health_percent": 88.4,
+    "odometer_km": 94475
+  },
+  {
+    "vehicle_id": "CAR008XVG0FN",
+    "timestamp": "2024-09-25T15:00:00Z",
+    "battery_health_percent": 87.5,
+    "odometer_km": 44954
+  },
+  {
+    "vehicle_id": "CAR024WI64CI",
+    "timestamp": "2024-09-23T09:00:00Z",
+    "battery_health_percent": 95.2,
+    "odometer_km": 43969
+  },
+  {
+    "vehicle_id": "VIN020039TEX",
+    "timestamp": "2024-09-23T06:00:00Z",
+    "battery_health_percent": 80.9,
+    "odometer_km": 57668
+  },
+  {
+    "vehicle_id": "VEH041EDTJVZ",
+    "timestamp": "2024-09-22T19:00:00Z",
+    "battery_health_percent": 93.4,
+    "odometer_km": 31324
+  },
+  {
+    "vehicle_id": "VEH007Q4FMYZ",
+    "timestamp": "2024-09-22T00:00:00Z",
+    "battery_health_percent": 94.1,
+    "odometer_km": 110657
+  },
+  {
+    "vehicle_id": "CAR036VS7HZI",
+    "timestamp": "2024-09-21T14:00:00Z",
+    "battery_health_percent": 87.0,
+    "odometer_km": 50362
+  },
+  {
+    "vehicle_id": "VIN003ZMF8MD",
+    "timestamp": "2024-09-21T03:00:00Z",
+    "battery_health_percent": 88.7,
+    "odometer_km": 123596
+  },
+  {
+    "vehicle_id": "VIN03074FRHO",
+    "timestamp": "2024-09-20T19:00:00Z",
+    "battery_health_percent": 91.3,
+    "odometer_km": 133007
+  },
+  {
+    "vehicle_id": "VEH005CKW5NG",
+    "timestamp": "2024-09-19T21:00:00Z",
+    "battery_health_percent": 89.1,
+    "odometer_km": 94951
+  },
+  {
+    "vehicle_id": "VEH0263GDPPQ",
+    "timestamp": "2024-09-19T00:00:00Z",
+    "battery_health_percent": 75.6,
+    "odometer_km": 90301
+  },
+  {
+    "vehicle_id": "VEH007Q4FMYZ",
+    "timestamp": "2024-09-18T22:00:00Z",
+    "battery_health_percent": 93.7,
+    "odometer_km": 111112
+  },
+  {
+    "vehicle_id": "VIN002ZZPQK5",
+    "timestamp": "2024-09-18T19:00:00Z",
+    "battery_health_percent": 90.1,
+    "odometer_km": 145025
+  },
+  {
+    "vehicle_id": "VIN018T2TALA",
+    "timestamp": "2024-09-18T16:00:00Z",
+    "battery_health_percent": 95.7,
+    "odometer_km": 139254
+  },
+  {
+    "vehicle_id": "CAR043PJA1WJ",
+    "timestamp": "2024-09-17T23:00:00Z",
+    "battery_health_percent": 80.3,
+    "odometer_km": 87096
+  },
+  {
+    "vehicle_id": "VEH011O6QJIU",
+    "timestamp": "2024-09-16T13:00:00Z",
+    "battery_health_percent": 95.7,
+    "odometer_km": 15937
+  },
+  {
+    "vehicle_id": "VIN033UT0CVS",
+    "timestamp": "2024-09-15T11:00:00Z",
+    "battery_health_percent": 93.9,
+    "odometer_km": 114976
+  },
+  {
+    "vehicle_id": "VIN035O7UUBC",
+    "timestamp": "2024-09-14T23:00:00Z",
+    "battery_health_percent": 93.6,
+    "odometer_km": 42147
+  },
+  {
+    "vehicle_id": "CAR03899CHJ7",
+    "timestamp": "2024-09-14T19:00:00Z",
+    "battery_health_percent": 93.7,
+    "odometer_km": 49217
+  },
+  {
+    "vehicle_id": "CAR021FSV871",
+    "timestamp": "2024-09-14T05:00:00Z",
+    "battery_health_percent": 79.1,
+    "odometer_km": 138077
+  },
+  {
+    "vehicle_id": "CAR01765KXVF",
+    "timestamp": "2024-09-13T11:00:00Z",
+    "battery_health_percent": 93.2,
+    "odometer_km": 37031
+  },
+  {
+    "vehicle_id": "CAR015ZYTJXE",
+    "timestamp": "2024-09-13T06:00:00Z",
+    "battery_health_percent": 65.3,
+    "odometer_km": 50177
+  },
+  {
+    "vehicle_id": "VIN004MMJBQE",
+    "timestamp": "2024-09-13T03:00:00Z",
+    "battery_health_percent": 89.4,
+    "odometer_km": 43567
+  },
+  {
+    "vehicle_id": "VEH01953LC58",
+    "timestamp": "2024-09-12T17:00:00Z",
+    "battery_health_percent": 91.9,
+    "odometer_km": 80902
+  },
+  {
+    "vehicle_id": "VIN0466HID25",
+    "timestamp": "2024-09-12T15:00:00Z",
+    "battery_health_percent": 98.5,
+    "odometer_km": 87517
+  },
+  {
+    "vehicle_id": "VEH011O6QJIU",
+    "timestamp": "2024-09-12T00:00:00Z",
+    "battery_health_percent": 95.2,
+    "odometer_km": 15120
+  },
+  {
+    "vehicle_id": "CAR025RT05UI",
+    "timestamp": "2024-09-11T16:00:00Z",
+    "battery_health_percent": 74.5,
+    "odometer_km": 99669
+  },
+  {
+    "vehicle_id": "VEH016FAZZ81",
+    "timestamp": "2024-09-11T15:00:00Z",
+    "battery_health_percent": 96.1,
+    "odometer_km": 53222
+  },
+  {
+    "vehicle_id": "VIN023ICATVA",
+    "timestamp": "2024-09-09T20:00:00Z",
+    "battery_health_percent": 95.1,
+    "odometer_km": 58686
+  },
+  {
+    "vehicle_id": "VIN03074FRHO",
+    "timestamp": "2024-09-09T11:00:00Z",
+    "battery_health_percent": 92.0,
+    "odometer_km": 133818
+  },
+  {
+    "vehicle_id": "VEH0263GDPPQ",
+    "timestamp": "2024-09-07T17:00:00Z",
+    "battery_health_percent": 76.3,
+    "odometer_km": 89863
+  },
+  {
+    "vehicle_id": "VIN0466HID25",
+    "timestamp": "2024-09-07T13:00:00Z",
+    "battery_health_percent": 97.9,
+    "odometer_km": 87885
+  },
+  {
+    "vehicle_id": "VIN006BIKCID",
+    "timestamp": "2024-09-07T10:00:00Z",
+    "battery_health_percent": 93.3,
+    "odometer_km": 35324
+  },
+  {
+    "vehicle_id": "CAR009YHL1C3",
+    "timestamp": "2024-09-05T05:00:00Z",
+    "battery_health_percent": 91.2,
+    "odometer_km": 78084
+  },
+  {
+    "vehicle_id": "CAR034F8CGVY",
+    "timestamp": "2024-09-04T22:00:00Z",
+    "battery_health_percent": 93.0,
+    "odometer_km": 118534
+  },
+  {
+    "vehicle_id": "VIN045T4UFEL",
+    "timestamp": "2024-09-03T23:00:00Z",
+    "battery_health_percent": 90.5,
+    "odometer_km": 88421
+  },
+  {
+    "vehicle_id": "CAR03289UZFK",
+    "timestamp": "2024-09-03T21:00:00Z",
+    "battery_health_percent": 89.1,
+    "odometer_km": 124264
+  },
+  {
+    "vehicle_id": "VIN042Y4SJ6B",
+    "timestamp": "2024-09-03T14:00:00Z",
+    "battery_health_percent": 78.7,
+    "odometer_km": 85661
+  },
+  {
+    "vehicle_id": "VIN014NVQJT7",
+    "timestamp": "2024-09-02T11:00:00Z",
+    "battery_health_percent": 89.8,
+    "odometer_km": 120963
+  },
+  {
+    "vehicle_id": "VIN003ZMF8MD",
+    "timestamp": "2024-09-01T09:00:00Z",
+    "battery_health_percent": 88.8,
+    "odometer_km": 123315
+  },
+  {
+    "vehicle_id": "CAR01765KXVF",
+    "timestamp": "2024-09-01T01:00:00Z",
+    "battery_health_percent": 92.7,
+    "odometer_km": 37575
+  },
+  {
+    "vehicle_id": "VEH0120PVN9E",
+    "timestamp": "2024-08-30T15:00:00Z",
+    "battery_health_percent": 92.5,
+    "odometer_km": 82018
+  },
+  {
+    "vehicle_id": "VIN031FAO72K",
+    "timestamp": "2024-08-30T04:00:00Z",
+    "battery_health_percent": 89.2,
+    "odometer_km": 34430
+  },
+  {
+    "vehicle_id": "CAR001DPBHSA",
+    "timestamp": "2024-08-29T19:00:00Z",
+    "battery_health_percent": 76.9,
+    "odometer_km": 114773
+  },
+  {
+    "vehicle_id": "VIN004MMJBQE",
+    "timestamp": "2024-08-29T13:00:00Z",
+    "battery_health_percent": 90.4,
+    "odometer_km": 43782
+  },
+  {
+    "vehicle_id": "VEH047907IF2",
+    "timestamp": "2024-08-29T13:00:00Z",
+    "battery_health_percent": 89.3,
+    "odometer_km": 102806
+  },
+  {
+    "vehicle_id": "VIN03074FRHO",
+    "timestamp": "2024-08-28T03:00:00Z",
+    "battery_health_percent": 91.7,
+    "odometer_km": 132866
+  },
+  {
+    "vehicle_id": "VIN028IGQPKI",
+    "timestamp": "2024-08-27T17:00:00Z",
+    "battery_health_percent": 65.0,
+    "odometer_km": 128096
+  },
+  {
+    "vehicle_id": "CAR024WI64CI",
+    "timestamp": "2024-08-27T08:00:00Z",
+    "battery_health_percent": 94.8,
+    "odometer_km": 43667
+  },
+  {
+    "vehicle_id": "CAR01765KXVF",
+    "timestamp": "2024-08-27T03:00:00Z",
+    "battery_health_percent": 94.2,
+    "odometer_km": 36712
+  },
+  {
+    "vehicle_id": "VIN018T2TALA",
+    "timestamp": "2024-08-26T08:00:00Z",
+    "battery_health_percent": 96.1,
+    "odometer_km": 138978
+  },
+  {
+    "vehicle_id": "VIN035O7UUBC",
+    "timestamp": "2024-08-26T07:00:00Z",
+    "battery_health_percent": 94.0,
+    "odometer_km": 41938
+  }
+]
