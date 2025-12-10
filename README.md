@@ -1,7 +1,6 @@
 # How to run
 ## Prerequisites:
-uv installed
-python
+`uv` installed. Required for project management.
 
 ## Steps
 After cloning this repo you should run:
