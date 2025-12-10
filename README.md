@@ -11,7 +11,7 @@ uv sync
 Make sure to fill in your OPENAI API key in `.env` file.
 You could rename `.env_example` to `.env` and insert your key as prompted.
 
-Then you should be ready to run from the project root:
+Make sure the virtual environment is active, then you should be ready to run from the project root:
 ```
 python main.py --query "Show me all vehicles with battery health below 85%"
 ```
